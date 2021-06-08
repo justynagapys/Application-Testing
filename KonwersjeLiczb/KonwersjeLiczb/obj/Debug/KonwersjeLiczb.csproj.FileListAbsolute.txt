@@ -1,0 +1,6 @@
+C:\Users\justy\source\repos\KonwersjeLiczb\KonwersjeLiczb\bin\Debug\KonwersjeLiczb.dll
+C:\Users\justy\source\repos\KonwersjeLiczb\KonwersjeLiczb\bin\Debug\KonwersjeLiczb.pdb
+C:\Users\justy\source\repos\KonwersjeLiczb\KonwersjeLiczb\obj\Debug\KonwersjeLiczb.csprojAssemblyReference.cache
+C:\Users\justy\source\repos\KonwersjeLiczb\KonwersjeLiczb\obj\Debug\KonwersjeLiczb.csproj.CoreCompileInputs.cache
+C:\Users\justy\source\repos\KonwersjeLiczb\KonwersjeLiczb\obj\Debug\KonwersjeLiczb.dll
+C:\Users\justy\source\repos\KonwersjeLiczb\KonwersjeLiczb\obj\Debug\KonwersjeLiczb.pdb
